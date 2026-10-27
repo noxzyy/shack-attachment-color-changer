@@ -3,14 +3,14 @@ ok change attachment color in pavlov just plug in headset run color.bat and give
 
 
 # colors it changes:
-laser color
-red dot color (includes pistol sights)
-holo color
+- laser color
+- red dot color (includes pistol sights)
+- holo color
 
 # how to use:
-download
-plug in headset to pc
-run color.bat
-put in hex code
-wait
-done
+- download
+- plug in headset to pc
+- run color.bat
+- put in hex code
+- wait
+- done
