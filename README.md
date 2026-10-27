@@ -3,7 +3,7 @@
 
 
 # preview changed to pink:
-![preview](https://media.noxzy.lol/r/eWNqGYBf.gif)
+![preview](preview.gif)
 
 
 
