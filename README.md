@@ -1,3 +1,7 @@
+## PLEASE READ THIS
+# using this will put your account at risk next update when they add their ac just return to normal before you open the update
+
+
 ok change attachment color in pavlov just plug in headset run color.bat and give it a hex color 
 
 
