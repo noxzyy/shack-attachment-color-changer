@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+req/backups/
+setup-error.log
