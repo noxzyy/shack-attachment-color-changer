@@ -1,5 +1,5 @@
 ## PLEASE READ THIS
-# using this will put your account at risk next update when they add their ac just return to normal before you open the update
+# after analyzing the anticheat afaik this isnt detected unless im just stupid  ill update it later
 
 
 # preview changed to pink:
